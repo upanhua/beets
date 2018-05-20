@@ -15,3 +15,5 @@ defaults:
         values:
             layout: main
             section: blog
+
+theme: jekyll-theme-time-machine
